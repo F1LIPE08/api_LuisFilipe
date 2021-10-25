@@ -1,0 +1,51 @@
+{
+    "alunos": [
+      {
+        "id": 1,
+        "nome": "User1",
+        "nota1": 5,
+        "nota2": 3,
+        "nota3": 2
+      },
+
+      {
+        "id": 2,
+        "nome": "User2",
+        "nota1": 3,
+        "nota2": 1,
+        "nota3": 4
+      },
+
+      {
+        "id": 3,
+        "nome": "User3",
+        "nota1": 4,
+        "nota2": 1,
+        "nota3": 5
+      },
+
+      {
+        "id": 4,
+        "nome": "User4",
+        "nota1": 3,
+        "nota2": 2,
+        "nota3": 5
+      },
+
+      {
+        "id": 5,
+        "nome": "User5",
+        "nota1": 4,
+        "nota2": 2,
+        "nota3": 3
+      },
+      
+      {
+        "id": 6,
+        "nome": "User6",
+        "nota1": 1,
+        "nota2": 5,
+        "nota3": 2
+      }
+    ]
+  }
